@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">native app</string>
+    <string name="title">native app</string>
+    <string name="title2">Taxonomy App</string>
+    <string name="camera_name">Camara</string>
+    <string name="gps_name">GPS</string>
+    <string name="files_name">Archivos</string>
+    <string name="image_content_description">Foto tomada</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_explorer">Archivo seleccionado</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>

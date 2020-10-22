@@ -1,0 +1,7 @@
+{
+  "name": "web_based_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
